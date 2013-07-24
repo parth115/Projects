@@ -1,4 +1,4 @@
 Learning a new Language
 =======================
 
-My take on [https://github.com/thekarangoel/Projects]Karan Goels Projects
+My take on [**Karan Goel's**](https://github.com/thekarangoel/Projects) Projects
